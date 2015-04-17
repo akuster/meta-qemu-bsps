@@ -16,6 +16,10 @@ This layer depends on:
   branch: master
 
 
+To use:
+
+use the meta-qemu-bsps/scrips/runqemu
+
 Patches
 =======
 
