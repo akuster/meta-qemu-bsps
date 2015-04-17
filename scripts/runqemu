@@ -335,7 +335,7 @@ SPITZ_DEFAULT_KERNEL=zImage-spitz.bin
 SPITZ_DEFAULT_FSTYPE=ext3
 
 QEMUPPC64_DEFAULT_KERNEL=vmlinux-qemuppc64.bin
-QEMUPPC64_DEFAULT_FSTYPE=ext3
+QEMUPPC64_DEFAULT_FSTYPE=ext4
 
 setup_path_vars() {
     if [ -z "$OE_TMPDIR" ] ; then
